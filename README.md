@@ -3,7 +3,7 @@
 💻 **Senior Backend Developer** | 🎨 **Full-Stack Developer** | 🚀 **Agile Practitioner**
 
 - 🔹 Passionate about building scalable and efficient applications.
-- 🔹 Experienced in **Laravel, Symfony, CodeIgniter, Microservices, and Next.js**.
+- 🔹 Experienced in **Laravel,Express.js,Microservices, and Next.js**.
 - 🔹 Skilled in **CMS development (SharePoint, Hybrid CMS)** and **Project Management (Scrum, Agile DSDM)**.
 - 🔹 Currently pursuing **Bachelor of Science in Computing at University of Greenwich (KMD College)**.
 
@@ -17,7 +17,7 @@
 - **CMS:** SharePoint, Hybrid CMS  
 
 ### ⚙️ **Backend**  
-- **Languages:** PHP (Laravel, Symfony, CodeIgniter), Python, TypeScript  
+- **Languages:** PHP, Python, TypeScript, Node JS
 - **Microservices:** Laravel 10, PHP 8.1  
 - **APIs:** Laravel Sanctum, RESTful APIs  
 - **Authentication:** JWT, OAuth2  

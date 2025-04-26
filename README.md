@@ -38,7 +38,8 @@
 ### 🚀 Notable Projects
 
 - **[Worth Services Logistic](https://worthservicesmm.com/)** (Laravel, Next.js) - Logistics management system.  
-- **[Fresh Moe Public Website](https://dev.freshmoe.com/en_us)** (Laravel, Next.js) - Official website for Fresh Moe.  
+- **[Fresh Moe Public Website](https://dev.freshmoe.com/en_us)** (Laravel, Next.js) - Official website for Fresh Moe.
+- **[HopeHands Website](https://hopehands.info/donators)** (Laravel, RestAPI and Tailwind CSS) - Official website for HopeHands.  
 - **E-commerce & POS Solutions** - Developed multiple POS and inventory systems.  
 - **Smart Course Finder (LearnFinder)** - AI-powered course search platform.  
 - **B2B and Franchise Management System** - Business automation for FreshMoe.  

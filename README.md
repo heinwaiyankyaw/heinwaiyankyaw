@@ -17,7 +17,7 @@
 - **CMS:** SharePoint, Hybrid CMS  
 
 ### ⚙️ **Backend**  
-- **Languages:** PHP, Python, TypeScript, Node JS
+- **Languages:** PHP, Node JS, TypeScript, Python
 - **Microservices:** Laravel 10, PHP 8.1  
 - **APIs:** Laravel Sanctum, RESTful APIs  
 - **Authentication:** JWT, OAuth2  

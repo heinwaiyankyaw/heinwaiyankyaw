@@ -16,21 +16,34 @@
 - **Styling:** Tailwind CSS, Bootstrap  
 - **CMS:** SharePoint, Hybrid CMS  
 
-### ⚙️ **Backend**  
-- **Languages:** PHP, Node JS, TypeScript, Python
-- **Microservices:** Laravel 10, PHP 8.1  
-- **APIs:** Laravel Sanctum, RESTful APIs  
-- **Authentication:** JWT, OAuth2  
+### ⚙️ **Backend**
 
-### 🗄️ **Databases**  
-- **SQL:** MySQL, Microsoft SQL, PostgreSQL  
-- **NoSQL:** MongoDB, SQLite  
+* **Languages:** PHP, Node.js, TypeScript, Python
+* **Frameworks & Microservices:** Laravel (7.4 to 11), Express.js
+* **API Development:** RESTful APIs, Laravel Sanctum, API Resources
+* **Authentication & Security:** JWT, OAuth 2.0, Laravel Passport, Hashing & Encryption, Rate Limiting
+* **Database Management:** MySQL, PostgreSQL, MongoDB, SQLite, Microsoft SQL Server, Eloquent ORM, Query Builder, Migrations & Seeders
+* **Caching & Queues:** Redis, Laravel Queues, Horizon
+* **Testing & Debugging:** PHPUnit, Laravel Dusk, Postman, Laravel Telescope
+* **Logging & Monitoring:** Monolog, Laravel Log Channels, Sentry
+* **Other Backend Features:** Task Scheduler (CRON), File Storage (Local, AWS S3), WebSockets (Pusher, Laravel Echo)
 
-### 🛠 **DevOps & Tools**  
-- **Version Control:** Git, GitHub, GitLab, Bitbucket  
-- **CI/CD:** GitHub Actions  
-- **Containerization:** Docker  
-- **Cloud:** AWS, DigitalOcean  
+---
+
+### 🗄️ **Databases**
+
+* **SQL:** MySQL, PostgreSQL, Microsoft SQL Server, SQLite
+* **NoSQL:** MongoDB
+
+---
+
+### 🛠 **DevOps & Tools**
+
+* **Version Control:** Git, GitHub, GitLab
+* **CI/CD:** GitHub Actions, GitLab CI/CD
+* **Containerization & Virtualization:** Docker
+* **Web Servers & Process Managers:** NGINX, Apache, PM2
+* **Cloud & Hosting:** AWS, DigitalOcean, Vercel
 
 ---
 
